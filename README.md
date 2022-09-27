@@ -1,4 +1,8 @@
-# Binance And WhiteBit USDT/UAH Status Parcer Telegram Bot
+# Binance And WhiteBit USDT/UAH Status Parcer Telegram Bot   
+
+[![CodeFactor](https://www.codefactor.io/repository/github/dmitrygaydabura/binance_whitebit_status_parcer_tgbot/badge)](https://www.codefactor.io/repository/github/dmitrygaydabura/binance_whitebit_status_parcer_tgbot)
+
+
 ![image](https://user-images.githubusercontent.com/103960072/192367810-0994bd4c-b44e-412c-bedd-cfc553a8df44.png)
 
 This is a simple application, based on several Open-Sourse API's:
